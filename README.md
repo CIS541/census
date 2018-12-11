@@ -47,17 +47,12 @@ output: html_document
   
 -Graphs
 
-![output_14_1]("/Visuals/output_14_1.png")
-<br>
-![output_14_3]("/Visuals/output_14_3.png")
-<br>
-![output_14_5]("/Visuals/output_14_5.png")
-<br>
-![output_37_0]("/Visuals/output_37_0.png")
-<br>
-![output_59_1]("/Visuals/output_59_1.png")
-<br>
-![output_69_0]("/Visuals/output_69_0.png")
+![output_14_1](/Visuals/output_14_1.png)
+![output_14_3](/Visuals/output_14_3.png)
+![output_14_5](/Visuals/output_14_5.png)
+![output_37_0](/Visuals/output_37_0.png)
+![output_59_1](/Visuals/output_59_1.png)
+![output_69_0](/Visuals/output_69_0.png)
   
 -Methodolgy
   
